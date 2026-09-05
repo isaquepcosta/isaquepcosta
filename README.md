@@ -41,7 +41,7 @@ Projeto de conclusão do curso Técnico em IoT pelo SENAI. Sistema de automaçã
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaque-costa-b94096433/)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaque.cts17@gmail.com)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaque.pcosta19@gmail.com)
 
 ---
 
